@@ -1,29 +1,33 @@
-# Terraform First Project: Remote Backend & Modules
+# Terraform Zero to Hero course
 
-This repository contains a sample Terraform project that demonstrates how to get started with Terraform—including setting up a remote backend, using modules for reusability, and discussing common Terraform interview Q&A topics. The project is inspired by the [Day-17 | Everything about Terraform](https://www.youtube.com/watch?v=CzdfdKWRDB8&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=21) tutorial video.
+## Day 1: Getting Started with Terraform
 
-## Overview
+#### Introduction to Terraform and IaC
 
-Terraform is an open-source Infrastructure as Code (IaC) tool that allows you to define, deploy, and manage infrastructure in a safe, repeatable, and efficient manner. In this project, you will learn to:
+In this session, we'll introduce you to the fundamental concepts of Terraform and Infrastructure as Code (IaC). Learn why Terraform is crucial for managing infrastructure and how IaC streamlines provisioning.
 
-- Write your first Terraform configuration.
-- Configure a remote backend for secure state management.
-- Create and utilize Terraform modules for scalable code.
-- Review key Terraform concepts and interview questions.
+#### Installing Terraform on MacOS, Linux and Windows
 
-## Prerequisites
+Get your hands dirty by installing Terraform on both MacOS, Linux and Windows. We'll guide you through the process with clear instructions and commands.
 
-Before getting started, ensure you have:
+#### Setting up Terraform for AWS
 
-- [Terraform](https://www.terraform.io/downloads.html) installed (version X.Y.Z or later).
-- [Git](https://git-scm.com/downloads) installed.
-- Access to your chosen cloud provider (e.g., AWS, Azure, GCP) if you plan to deploy real infrastructure.
-- [Optional] Cloud CLI tools (e.g., [AWS CLI](https://aws.amazon.com/cli/)) if you’re configuring a remote backend with a specific provider.
+Dive into AWS integration with Terraform. You'll learn how to set up your AWS credentials and configure the AWS provider within Terraform to start provisioning resources.
 
-## Getting Started
+#### Writing Your First Terraform Code
 
-1. **Clone the Repository:**
+Start writing actual Terraform code with a simple example. Learn about the basic structure of a Terraform configuration file and how to define resources using the HCL language.
 
-   ```bash
-   git clone https://github.com/yourusername/terraform-first-project.git
-   cd terraform-first-project
+### Terraform Lifecycle
+
+Understand the lifecycle of terraform. What is terraform `init`, `plan` and `apply`.
+
+#### Launching an EC2 Instance
+
+Take your skills up a notch by provisioning an EC2 instance on AWS using Terraform. Explore attributes like instance type, AMI, and tags to customize your instance.
+
+#### Terraform State Basics
+
+Understand the importance of Terraform state files. Learn about desired and current states, and how Terraform manages these states to ensure infrastructure consistency.
+
+## Day 2: Advanced Terraform Configuration
