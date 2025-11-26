@@ -1,4 +1,9 @@
 # Terraform Zero to Hero course
+## Why was this repo created?
+
+### Shows Terraform details in short with simple, clean demos and Hands-on Projects
+### Shows Terraform AWS Hands-on Samples, Use Cases
+### Keywords: Terraform, Infrastructure as Code, AWS, Cloud Provisioning
 
 ## Day 1: Getting Started with Terraform
 
