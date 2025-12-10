@@ -1,4 +1,4 @@
-```markdown
+
 # Terraform Providers: Essential Plugins for Infrastructure Management
 
 This document outlines the fundamental role and configuration of Terraform providers, which are necessary for provisioning resources on cloud platforms and other services.
