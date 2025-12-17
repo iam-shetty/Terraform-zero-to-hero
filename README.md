@@ -58,4 +58,3 @@ Utilize module outputs to access critical information or propagate data to your 
 #### Exploring Terraform Registry for Modules
 
 Embark on a journey through the Terraform Registry. Discover pre-built, community-contributed modules and learn how to incorporate them into your own configurations.
-
