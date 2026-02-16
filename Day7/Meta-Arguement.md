@@ -1,6 +1,6 @@
-    # Day 7: Terraform Meta-Arguments - Complete Guide
+### Day 7: Terraform Meta-Arguments - Complete Guide
 
-Welcome to Day 08 of the Terraform AWS Course! This lesson provides **comprehensive coverage of all Terraform meta-arguments** with simple, practical examples.
+Welcome to Day7 of the Terraform AWS Course! This lesson provides **comprehensive coverage of all Terraform meta-arguments** with simple, practical examples.
 
 ## 📚 What You'll Learn
 
